@@ -1,4 +1,4 @@
-public struct LCNOtifyUserRequestBody {
+public struct LCNotifyUserRequestBody {
   Cookie cookie;
   
   [MarshalAs(UnmanagedType.ByValArray, SizeConst = 18)] 
