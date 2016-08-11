@@ -1,3 +1,3 @@
-public struct LCNOtifyUserResponseBody {
+public struct LCNotifyUserResponseBody {
   // none
 }
