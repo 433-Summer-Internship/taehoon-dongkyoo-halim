@@ -1,3 +1,3 @@
 public struct CLSignupRequestBody{
-  Userinfo user;
+  UserInfo user;
 }
