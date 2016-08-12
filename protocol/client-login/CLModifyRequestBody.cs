@@ -1,4 +1,4 @@
-public struct CLModifyRequest{
+public struct CLModifyRequestBody : Body{
   UserInfo info;
   
   [MarshalAs(UnmanagedType.ByValArray, SizeConst = 18)]
