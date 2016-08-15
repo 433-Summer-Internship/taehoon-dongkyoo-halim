@@ -1,6 +1,6 @@
 public class MessageType{
 
-  public const short MSG          = 200; // normal msg  
+  public const short CHATTING          = 200; // normal msg  
   
   // Membership : 300번대 
   public const short SIGNUP       = 310; // signup req
