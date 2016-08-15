@@ -1,14 +1,15 @@
-  public struct CCHeader : Header
+public struct CCHeader : Header
     {
         MessageType type;
         MessageState state;
+        int bodyLength;
         Cookie cookie;
 
-
-        public CCHeader(MessageType type, MessageState state, Cookie cookie)
+        public CCHeader(MessageType type, MessageState state, int bodyLength, Cookie cookie)
         {
             this.type = type;
             this.state = state;
+            this.bodyLength = bodyLength;
             this.cookie = cookie;
 
         }
