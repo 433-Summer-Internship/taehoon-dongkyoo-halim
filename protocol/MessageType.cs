@@ -1,5 +1,9 @@
 public enum MessageType
 {
+    // connection setup between client ~ chat server 
+    ConnectionSetup = 100,
+
+    // chatting 
     Chatting = 200,
 
     // Membership : 300번대 
