@@ -1,18 +1,28 @@
-public struct CCHeader : Header
+   public struct CCHeader : Header
     {
         MessageType type;
         MessageState state;
         int bodyLength;
-        Cookie cookie;
+        // Cookie cookie;
 
+        
+                public CCHeader(MessageType type, MessageState state, int bodyLength)
+                {
+                    this.type = type;
+                    this.state = state;
+                    this.bodyLength = bodyLength;
+
+                }
+        
+        /*
         public CCHeader(MessageType type, MessageState state, int bodyLength, Cookie cookie)
         {
             this.type = type;
             this.state = state;
             this.bodyLength = bodyLength;
             this.cookie = cookie;
-
         }
+        */
 
         public MessageState State
         {
@@ -26,10 +36,12 @@ public struct CCHeader : Header
             set { type = value; }
         }
 
-        public Cookie Cookie
+        /*
+         * public Cookie Cookie
         {
             get { return cookie; }
             set { cookie = value; }
         }
+        */
 
     }
