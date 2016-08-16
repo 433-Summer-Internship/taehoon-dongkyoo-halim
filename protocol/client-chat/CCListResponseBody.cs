@@ -1,3 +1,3 @@
 public struct CCListResponseBody : Body{
-  struct roomInfo[];
+  ChattingRoom[] chattingRoomList;
 }
