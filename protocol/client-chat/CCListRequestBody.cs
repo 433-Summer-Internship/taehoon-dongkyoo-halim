@@ -1,4 +1,4 @@
-public struct CCListRequestBody
+public struct CCListRequestBody : Body
 {
   // none
 }
