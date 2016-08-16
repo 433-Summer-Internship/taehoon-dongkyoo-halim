@@ -1,3 +1,3 @@
-public struct CLSignupResponseBody{
+public struct CLSignupResponseBody : Body{
   // none
 }
