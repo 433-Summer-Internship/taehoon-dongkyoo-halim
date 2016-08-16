@@ -1,3 +1,3 @@
 public struct CBCreateRoomRequestBody{
-  UserInfo userInfo;
+  //UserInfo userInfo;
 }
