@@ -1,3 +1,3 @@
-public struct CCLeaveResponseBody{
+public struct CCLeaveResponseBody : Body{
   // none
 }
