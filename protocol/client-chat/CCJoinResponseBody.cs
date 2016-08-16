@@ -1,4 +1,4 @@
-public struct CCJoinResponseBody{
+public struct CCJoinResponseBody : Body{
   // If Success
   // none
   
