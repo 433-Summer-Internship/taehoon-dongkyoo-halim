@@ -1,4 +1,4 @@
-public struct CLLoginResponseBody{
+public struct CLSigninResponseBody{
   Cookie cookie;
   ServerInfo serverInfo;
   string cookie; 
