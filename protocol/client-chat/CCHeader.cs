@@ -1,9 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+// 보류 
+/*
 namespace LunkerLibrary.common.protocol
 {
     public struct CCHeader : Header
@@ -56,5 +52,6 @@ namespace LunkerLibrary.common.protocol
         }
 
     }
-
 }
+*/
+
