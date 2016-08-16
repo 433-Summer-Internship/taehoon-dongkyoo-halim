@@ -1,3 +1,3 @@
-public struct CCCreateRoomRequestBody : Body{
+public struct CCCreateRoomResponseBody : Body{
   ChattingRoom chattingRoom;
 }
