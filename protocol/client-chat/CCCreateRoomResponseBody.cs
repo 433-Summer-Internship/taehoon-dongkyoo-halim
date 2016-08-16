@@ -1,3 +1,3 @@
-public struct CCCreateRoomRequestBody{
+public struct CCCreateRoomRequestBody : Body{
   int roomNumber;
 }
