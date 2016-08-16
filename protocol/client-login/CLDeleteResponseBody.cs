@@ -1,3 +1,3 @@
-public struct CLDeleteResponseBody{
+public struct CLDeleteResponseBody : Body{
   // none
 }
