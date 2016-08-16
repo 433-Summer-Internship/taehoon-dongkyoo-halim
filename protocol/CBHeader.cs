@@ -9,7 +9,6 @@ public struct CBHeader : Header
     int bodyLength;
     Cookie cookie;
 
-
     public CBHeader(MessageType type, MessageState state, int bodyLength, Cookie cookie)
     {
         this.type = type;
@@ -29,6 +28,12 @@ public struct CBHeader : Header
     {
         get { return type; }
         set { type = value; }
+    }
+
+    public int BodyLength
+    {
+        get { return bodyLength; }
+        set { bodyLength = value; }
     }
 
     public Cookie Cookie
