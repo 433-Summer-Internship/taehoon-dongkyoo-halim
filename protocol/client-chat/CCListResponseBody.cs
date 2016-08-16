@@ -1,3 +1,3 @@
-public struct CCListResponseBody{
+public struct CCListResponseBody : Body{
   struct roomInfo[];
 }
