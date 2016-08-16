@@ -1,3 +1,3 @@
-public struct CLSigninRequestBody{
+public struct CLSigninRequestBody : Body{
   UserInfo userInfo;
 }
