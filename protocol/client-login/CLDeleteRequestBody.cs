@@ -1,3 +1,3 @@
-public struct CLDeleteRequestBody{
+public struct CLDeleteRequestBody : Body{
   UserInfo info;
 }
