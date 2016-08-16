@@ -9,8 +9,9 @@ public enum MessageType
     // Membership : 300번대 
     Signup = 310,
     Signin = 320,
-    Modify = 330,
-    Delete = 340,
+    Logout = 330,
+    Modify = 340,
+    Delete = 350,
 
     // Chatting Room : 400번대
     ListRoom = 400,
