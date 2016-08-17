@@ -28,7 +28,10 @@ public enum MessageType
     Monitoring 
     */
     
-    FENotice = 600,
+    
+    Auth = 600, // for login~chat
+    
+    FENotice = 600, // for login ~ chat 
 
     // Heartbeat 
     Heartbeat = 800
