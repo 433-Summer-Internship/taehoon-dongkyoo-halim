@@ -1,4 +1,4 @@
-public struct LCNotifyUserRequestBody {
+public struct LCUserAuthRequestBody {
   Cookie cookie;
   UserInfo userInfo; // use only id 
   /*
