@@ -1,0 +1,3 @@
+public struct AAStartResponseBody{
+// none 
+}
