@@ -27,6 +27,8 @@ public enum MessageType
     /*
     Monitoring 
     */
+    
+    FENotice = 600,
 
     // Heartbeat 
     Heartbeat = 800
