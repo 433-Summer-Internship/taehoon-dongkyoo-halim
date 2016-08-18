@@ -30,9 +30,8 @@ public enum MessageType
     
     
     Auth = 600, // for login~chat
-    
     FENotice = 610, // for login ~ chat 
-
+    VerifyCookie = 620,
     // Heartbeat 
     Heartbeat = 800
 }
