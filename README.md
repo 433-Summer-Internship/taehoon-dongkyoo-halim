@@ -3,4 +3,4 @@
 
 Client(taehoon) :  https://github.com/taekong423/AsyncChatClient  
 Frontend(dongkyoo) : https://github.com/lunker/LunkerFrontend   
-Backend(halim) : 
+Backend(halim) : https://github.com/eblikes2play/Chat_DB
