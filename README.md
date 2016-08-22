@@ -1,7 +1,7 @@
-# taehoon-dongkyoo-halim
+# taehoon-dongkyoo-halim  
 4:33 intern Chatting Project#2  
 
-팀 Github : https://github.com/433-Summer-Internship/taehoon-dongkyoo-halim
+팀 Github : https://github.com/433-Summer-Internship/taehoon-dongkyoo-halim  
 Client(taehoon) :  https://github.com/taekong423/AsyncChatClient  
 Frontend(dongkyoo) : https://github.com/lunker/LunkerFrontend   
 Backend(halim) : https://github.com/eblikes2play/Chat_DB
