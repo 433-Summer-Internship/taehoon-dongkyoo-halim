@@ -15,13 +15,12 @@ Protocol (dll): https://github.com/lunker/LunkerFrontend/tree/release/LunkerProt
 # Client
 Chatting Client : https://github.com/taekong423/AsyncChatClient  
 Admin Tool : https://github.com/lunker/LunkerFrontend/tree/release/LunkerChatAdminTool  
-Agent : https://github.com/lunker/LunkerFrontend/tree/release/LunkerAgent    
 
 # Frontend
 Chatting Server(Socket) : https://github.com/lunker/LunkerFrontend/tree/release/LunkerChatServer  
 Chatting Server(websocket) : https://github.com/lunker/LunkerFrontend/tree/release/LunkerChatWebServer    
+Agent : https://github.com/lunker/LunkerFrontend/tree/release/LunkerAgent    
 
 # Backend
-BE (test): https://github.com/lunker/lunkerRedis/tree/feature-project-2  
 BE : https://github.com/eblikes2play/Chat_DB
-
+BE (test): https://github.com/lunker/lunkerRedis/tree/feature-project-2  
